@@ -11,3 +11,7 @@ node_modules
 .vagrant
 package-lock.json
 *.log
+
+*hide
+*./hide
+*/hide
